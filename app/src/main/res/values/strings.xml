@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="reset">Reset</string>
+    <string name="toast_msg_vittoria">Hai vinto!!!</string>
+</resources>
